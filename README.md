@@ -1,6 +1,7 @@
-# HELLO WORLD! :earth_americas:
+#  :wave: HELLO WORLD! :earth_americas:
 - :bowtie: I’m @Cesar-Morales.
-- :books: I’m currently study Lic. Informatica (FI-UNLP)
+- :computer: Currently working on [Ergittek](https://www.ergittek.com/)
+- :books: Im currently study Lic. Informatica (FI-UNLP)
 - :triangular_flag_on_post: I am interested in programming and cybersecurity.
-- :computer: I’m currently learning frontend & backend tools.
+- :dart: Currently learning frontend & backend tools.
 
